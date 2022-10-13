@@ -1,0 +1,10 @@
+- pipeline.id: local
+  path.config: "/usr/share/logstash/pipeline/local_opensearch.conf"
+
+- pipeline.id: remote
+  path.config: "/usr/share/logstash/pipeline/remote_opensearch.conf"
+- pipeline.id: stdout
+  path.config: "/usr/share/logstash/pipeline/stdout.conf"
+
+- pipeline.id: main
+  path.config: "/usr/share/logstash/pipeline/main.conf"
