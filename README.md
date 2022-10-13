@@ -8,4 +8,4 @@ You need to POST data into logstash:8880 for learning this example.
 
 ## Architecture
 
-![Architecture](./images/architecture.png)
+![Architecture](./images/architecture_.png)
